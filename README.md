@@ -1,5 +1,8 @@
 # express-auth-template
 
+Тут пример фронта под этот бэк:
+https://github.com/Paveltrety/next-auth-template
+
 Нужно создать .env файл:
 
 ```
